@@ -1,0 +1,17 @@
+amqp==5.0.1
+billiard==3.6.3.0
+celery==5.0.1
+click==7.1.2
+click-didyoumean==0.0.3
+click-repl==0.1.6
+fastapi==0.61.1
+FastAPI-SQLAlchemy==0.2.1
+kombu==5.0.2
+prompt-toolkit==3.0.8
+pydantic==1.6.1
+pytz==2020.1
+six==1.15.0
+SQLAlchemy==1.3.20
+starlette==0.13.6
+vine==5.0.0
+wcwidth==0.2.5
