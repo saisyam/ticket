@@ -1,2 +1,2 @@
 # Ticket
-Ticket is a ticket management system built on FastAPI, SQL Alchemy, Celery, PostgreSQL and ReactJS
+Ticket is a ticket management system built on FastAPI, SQL Alchemy, PostgreSQL and PReact
